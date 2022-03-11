@@ -4,3 +4,7 @@ token:
 
 gateway:
   ip: 127.0.0.1
+
+logging:
+  level:
+    com.jaemin.userservice: DEBUG
